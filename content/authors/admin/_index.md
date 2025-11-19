@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: 舒薇澄
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Shu Weicheng'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Weicheng
+last_name: Shu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🍊
 
 # Is this the primary user of the site?
 superuser: true
